@@ -1,0 +1,12 @@
+-------------------------Character Selection---------------------------
+Outcast -  Balanced in everything. Decent with a gun. STR: Average HLF: Average INT: Average
+    Once part of the elite, He abandoned a life of privilege after seeing the world’s suffering up close.
+    Now, he fights alongside bandits to bring down the Legion and reclaim Xalora’s future.[0]
+
+Byte - Smart but weak. Great with tech. STR: Low  HLF: Average  INT: High
+    A product of genetic cyber-experiments, he was designed as the Legion’s test subject.
+    they escaped, determined to turn the Legion’s own systems against them in a battle for revenge.[1]
+
+Venom - Strong and tough. Uses an acid gun. STR: High HLF: Average INT: High
+        Orphan, raised in the slums, she lost everything to the Legion.
+        Armed with an acid gun and a thirst for vengeance, she fights to make them pay and end their tyranny.[2]

@@ -1,0 +1,36 @@
+----------------------------HELP MENU----------------------------
+*Mission*
+You’re a lowlife, a bandit from the dregs of Xalora.
+But you are the planets last hope. The Legion — the merciless coalition from the outer universes—wants Xaloras
+resources and won’t stop until every last bit is stripped away. It’s on you to find the Singularity Core, deep
+within Xaloras inner core, and use it to either save or obliterate the world. Make it there first,
+or watch the planet burn.
+
+*Objective*
+Locate the Singularity Core hidden in Xaloras core.
+Decide the fate of Xalora — use the Core to defend the planet or to destroy it, leaving nothing for the Legion and take down the Legion leader.
+
+*Controls*
+Move: Arrow keys
+Attack: q, e
+Inventory Access: i
+
+*Gameplay Tips*
+Stealth or Strength: Choose how to approach each enemy — take advantage of surprise attacks in narrow sewer passages,
+or face Legion warriors head-on.
+Watch Your Resources: Limited resources mean every bullet, weapon, and ration counts. Waste nothing.
+Navigate Xalora’s Sewers: The sewers are your path to the core, but it’s full of traps and Legion operatives. Keep your wits about you.
+Use the Environment: The Legion won’t make this easy, but use the terrain and any cover you can find to outsmart them.
+
+*Enemies*
+Legion Warriors: Elite soldiers trained to hunt down threats like you.
+Drones & Sentinels: Machines designed to patrol and eliminate resistance.
+Elite Commanders: They won’t hesitate to call in reinforcements or use lethal attacks.
+
+*Power-ups and Items*
+Healing potion: Recover health; you will need every bit of it.
+Weapons: Collect and use wisely — supplies are scarce.
+Energy Boosters: For special abilities, the only thing keeping you alive.
+
+Good Luck!
+You’re no hero—just a bandit with a vendetta. But on Xalora, sometimes that’s enough. Get to the Core, and make it count.

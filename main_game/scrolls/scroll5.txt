@@ -1,0 +1,21 @@
+---------------------SCROLL OF ALCHEMY---------------------------
+_The Elixirs of Survival_
+
+In the depths of Xalora, steel alone won’t keep you alive. The right potion at the right moment can mean the difference between victory and death. But be warned—these concoctions hold great power, and some come with a cost.
+
+### **COMMON POTIONS**
+- **Healing Draught** – Restores lost health. The fresher the brew, the stronger the effect.
+- **Energy Infusion** – Restores power for special abilities. Overuse may cause Core Overload.
+- **Shadow Blend** – Temporarily renders you invisible. Beware—Legion mages can still sense you.
+
+### **RARE CONCOCTIONS**
+- **Berserker Serum** – Doubles attack speed and strength, but slowly drains health over time.
+- **Timebender’s Elixir** – Slows everything around you for a brief moment. Use wisely—time does not like to be bent.
+- **Phoenix Flask** – Revives you upon death, but only once. Extremely rare.
+
+### **FORBIDDEN BREWS**
+- **Black Veil Potion** – Grants near-invincibility for 10 seconds but permanently reduces your max health.
+- **Wraith Tonic** – Phases you into another plane, avoiding damage, but leaves you unable to attack.
+- **Legion’s Bane** – A deadly toxin that melts enemies on contact. Handle with care—it can burn you too.
+
+Potions are tools, not miracles. Choose your elixirs well, for every drop may be your last.

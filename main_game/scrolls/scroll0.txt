@@ -1,0 +1,35 @@
+-----------------------SCROLL OF THE WANDERER-----------------------
+
+The ancient sewers of Xalora hold secrets and relics of past ages.
+Below are objects that may aid you on your journey, should you find them
+and choose to wield them wisely.
+
+- Healing Elixirs
+  Crafted from the rare herbs of the Luminescent Caves, these potions
+  will mend wounds and restore your strength. Use them sparingly, for
+  few know the art of their making.
+
+- Weapons
+  Tools of war, forged to strike fear into the Legion. They are scarce
+  and powerful, but each shot spent is a chance lost — use them only
+  when absolutely necessary.
+
+- Energy Crystals
+  Embedded with ancient runes, these crystals restore the mystical
+  forces that fuel your special abilities. Handle with caution; their
+  power is raw and unpredictable.
+
+- Key of Shadows
+  Rarely found, these keys open the guarded doors within the sewers.
+  Each key is crafted by the Keepers, and only they know which doors
+  they will unlock.
+
+- Legion Relics
+  These mysterious artifacts hold knowledge of the Legion's movements
+  and tactics. Use them to gain insight into your enemy's plans, or
+  trade them for resources if the opportunity arises.
+
+May these items serve you well, wanderer, for the path is treacherous
+and the trials many.
+
+---------------------------END OF SCROLL---------------------------
